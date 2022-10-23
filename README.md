@@ -2,17 +2,21 @@
 ***
 
 ### Professional experiences 💼
-![Itau logo](https://i.imgur.com/gjiSZJ4.png) Itaú Unibanco: *Most valuable Brazilian private financial company*
+![Itau logo](https://i.imgur.com/gjiSZJ4.png) [Itaú Unibanco](https://www.itau.com.br/): *Most valuable Brazilian private financial company*
 - may22 - now: Data strategy analyst.
 - mar21 - may22: Pricing intern.
 - apr18 - aug19: Oper apprentice.
 
 ### Education 📝
-- Bachelor of Computer Science - Universidade Paulista ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
-- Computer Technician - ETEC Camargo Aranha ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
+- Bachelor of Computer Science - [Universidade Paulista](https://unip.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
+- Computer Technician - [ETEC Camargo Aranha](http://eteccamargoaranha.com.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
 
 ### Fun fact 😂
 My name is actually Rillis.
+
+### Other social medias
+[![Linkedin logo](https://i.imgur.com/Jnc7cBg.png)](https://linkedin.com/in/rillis)
+[![Instagram logo](https://i.imgur.com/smgVT4J.png)](https://instagram.com/_rillis)
 
 ***
 
