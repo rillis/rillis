@@ -12,13 +12,11 @@
 - Bachelor of Computer Science - [Universidade Paulista](https://unip.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
 - Computer Technician - [ETEC Camargo Aranha](http://eteccamargoaranha.com.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
 
-### Fun fact 😂
-My name is actually Rillis.
-
 ### Other social medias
 [![Linkedin logo](https://i.imgur.com/Jnc7cBg.png)](https://linkedin.com/in/rillis)
 [![Instagram logo](https://i.imgur.com/smgVT4J.png)](https://instagram.com/_rillis)
 
 ***
+![](https://komarev.com/ghpvc/?username=rillis&color=gray)
 
 [![rillis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rillis&theme=dark)](https://github.com/rillis)
