@@ -3,7 +3,7 @@
 
 ### Professional experiences 💼
 ![Itau logo](https://i.imgur.com/gjiSZJ4.png) [Itaú Unibanco](https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco): *Largest private financial conglomerate in the Southern Hemisphere*
-- jul24 - now: Data strategy analyst.
+- jul24 - sep25: Data strategy analyst.
 - may22 - jul24: Data strategy junior analyst.
 - mar21 - may22: Pricing intern.
 - apr18 - aug19: Oper apprentice.
