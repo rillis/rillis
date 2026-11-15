@@ -1,22 +1,27 @@
-### Welcome to my profile 😊
-***
+## Hi, I'm Rillis 👋
+Data professional from São Paulo, Brazil 🇧🇷
 
-### Professional experiences 💼
-![Itau logo](https://i.imgur.com/gjiSZJ4.png) [Itaú Unibanco](https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco): *Largest private financial conglomerate in the Southern Hemisphere*
-- jul24 - sep25: Data strategy analyst.
-- may22 - jul24: Data strategy junior analyst.
-- mar21 - may22: Pricing intern.
-- apr18 - aug19: Oper apprentice.
+## Professional Experience 💼
+**JRF Ferramentas** 🇧🇷: *My own e-commerce business*
+- Sep 2025 – Present: Founder
+  - Handling everything: pricing, inventory, shipping and customer support
+  - Using data and automation to make pricing and sales decisions
 
-### Education 📝
-- Bachelor of Computer Science - [Universidade Paulista](https://unip.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
-- Computer Technician - [ETEC Camargo Aranha](http://eteccamargoaranha.com.br/) ![Brazil flag](https://i.imgur.com/E7g80JZ.png)
+![Itaú logo](https://i.imgur.com/gjiSZJ4.png) [Itaú Unibanco](https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco): *The largest private financial conglomerate in the Southern Hemisphere*
+- Jul 2024 – Sep 2025: Data Strategy Analyst
+- May 2022 – Jul 2024: Junior Data Strategy Analyst
+- Mar 2021 – May 2022: Pricing Intern
+- Apr 2018 – Aug 2019: Operations Apprentice
 
-### Other social medias
-[![Linkedin logo](https://i.imgur.com/Jnc7cBg.png)](https://linkedin.com/in/rillis)
+## Education 📝
+- B.Sc. in Computer Science – [Universidade Paulista](https://unip.br/) 🇧🇷
+- Computer Technician (Technical High School) – [ETEC Camargo Aranha](http://eteccamargoaranha.com.br/) 🇧🇷
+
+## Find me on
+[![LinkedIn logo](https://i.imgur.com/Jnc7cBg.png)](https://linkedin.com/in/rillis)
 [![Instagram logo](https://i.imgur.com/smgVT4J.png)](https://instagram.com/_rillis)
 
 ***
-![](https://komarev.com/ghpvc/?username=rillis&color=gray)
+![Profile views](https://komarev.com/ghpvc/?username=rillis&color=gray)
 
-[![rillis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rillis&theme=dark)](https://github.com/rillis)
+![Most used languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
