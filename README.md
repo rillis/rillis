@@ -2,7 +2,7 @@
 Data professional from São Paulo, Brazil 🇧🇷
 
 ## Professional Experience 💼
-🔨 [**JRF Ferramentas**](https://jrf.rillis.com.br) 🇧🇷: *My own e-commerce business*
+🔨 [**JRF Ferramentas**](https://jrf.rillis.com.br/en) 🇧🇷: *My own e-commerce business*
 - Apr 2026 – Present: Founder
   - Handling everything: pricing, inventory, shipping and customer support
   - Using data and automation to make pricing and sales decisions
