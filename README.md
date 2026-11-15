@@ -3,7 +3,7 @@ Data professional from São Paulo, Brazil 🇧🇷
 
 ## Professional Experience 💼
 [**JRF Ferramentas**](#) 🇧🇷: *My own e-commerce business*
-- Sep 2025 – Present: Founder
+- Apr 2026 – Present: Founder
   - Handling everything: pricing, inventory, shipping and customer support
   - Using data and automation to make pricing and sales decisions
 
