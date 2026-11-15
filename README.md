@@ -24,4 +24,4 @@ Data professional from São Paulo, Brazil 🇧🇷
 ***
 ![Profile views](https://komarev.com/ghpvc/?username=rillis&color=gray)
 
-![Most used languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Most used languages](./metrics.languages.svg)
